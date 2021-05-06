@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695221741186",
+    "firebase_url": "https://football-marca-default-rtdb.firebaseio.com",
+    "project_id": "football-marca",
+    "storage_bucket": "football-marca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695221741186:android:f0d83a1ec9cb267dbd769b",
+        "android_client_info": {
+          "package_name": "com.example.marcaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695221741186-5t2husu38tnq09i1vmrfftm1si5obo0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marcaa",
+            "certificate_hash": "93d4491aa2e2e4ef195383f915ac907625e5f06b"
+          }
+        },
+        {
+          "client_id": "695221741186-m9jprfd77elbfgv5rimpn087fhli2h6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnlfpVzdAihoWuwfWx8kniNF0S_QbLJLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695221741186-m9jprfd77elbfgv5rimpn087fhli2h6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
